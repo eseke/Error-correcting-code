@@ -1,2 +1,2 @@
 # -Error-correcting-code
-Fundamentals of Telecommunications project
+Fundamentals of Telecommunications project. Goal of this project was to compare various [Error correction code](https://en.wikipedia.org/wiki/Burst_error-correcting_code) methods.
